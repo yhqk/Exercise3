@@ -1,9 +1,0 @@
-===== Logfile for consumer_daemon.c=====
-pid as 14779; ppid as 1596
-2015-06-03 12:08:00.057 test.txt is removed.
-===== Logfile for consumer_daemon.c=====
-pid as 15463; ppid as 1596
-2015-06-03 12:15:28.984 test.txt is removed.
-2015-06-03 12:15:33.987 test.txt is removed.
-2015-06-03 12:15:44.991 test.txt is removed.
-2015-06-03 12:15:45.991 test.txt is removed.
